@@ -1,10 +1,10 @@
-**Git/Github course** 
+**Git/Github course**
 
-- Configurar/saber tu usuario o email
+-Configurar/saber tu usuario o email
 git config --global user.name "Sergio Ventura"
 git config --global user.email "sergiovforesto"
 
-- Si quieres comprobar tu configuración, puedes usar el comando git config --list para mostrar todas las propiedades que Git ha configurado:
+-Si quieres comprobar tu configuración, puedes usar el comando git config --list para mostrar todas las propiedades que Git ha configurado:
 
 git config --list
 user.name=John Doe
@@ -14,7 +14,7 @@ color.branch=auto
 color.interactive=auto
 color.diff=auto
 
-- Comandos basicos git
+-Comandos basicos git
 
 *repo*  -> repository
 
