@@ -1,4 +1,4 @@
-- Git/Github course -
+**Git/Github course** 
 
 - Configurar/saber tu usuario o email
 git config --global user.name "Sergio Ventura"
