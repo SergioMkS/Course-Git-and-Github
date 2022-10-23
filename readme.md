@@ -33,6 +33,3 @@ color.diff=auto
 *status* -> verifique qué archivos se están rastreando o deben confirmarse(commit)
 
 *init* -> use este comando dentro de su proyecto para convertirlo en un repositorio de Git y comience a usar Git con esa base de código
-
-
-
